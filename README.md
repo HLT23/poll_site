@@ -1,2 +1,3 @@
 # poll_site
-Python Django project - poll site with admin access.
+Python Django project for public poll site. 
+Administrator can delete, add, and reconfigure polls.
